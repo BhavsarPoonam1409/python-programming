@@ -1,0 +1,10 @@
+my_list=[12,45,78,90,45,34]
+no_list=[1,6,9,0,8,5,]
+new_list=['X',123,789,900]
+print(my_list+new_list)
+print(max(no_list))
+print(min(no_list))
+print(len(new_list))
+print(sum(no_list))
+print(list("A"*3))
+print(sorted(no_list))

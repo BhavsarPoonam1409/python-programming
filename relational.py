@@ -1,0 +1,8 @@
+n1=int(input("enter number1:"))
+n2=int(input("enter number2:"))
+print("greater than n1>n2:",n1>n2)
+print("less than n1<n2:",n1<n2)
+print("greater than equal ton1>=n2:",n1>=n2)
+print("less than equal to n1<=n2",n1<=n2)
+print("equal to n1==n2",n1==n2)
+print("not equal to n1!=n2:",n1!=n2)

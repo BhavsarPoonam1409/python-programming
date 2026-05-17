@@ -1,0 +1,12 @@
+no=[12,23,56,78,90,45,34,12,100,56,78,90]
+print(no.count(90))
+print(no.index(100))
+no.insert(1,20)
+print(no)
+print(no.pop())
+no.remove(56)
+print("after removing :",no)
+no.reverse()
+print(no)
+no.sort()
+print(no)
