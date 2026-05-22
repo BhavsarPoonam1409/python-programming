@@ -1,0 +1,5 @@
+str="python"
+print("str[-1:-5:-1]",str[-1:-5:-1])
+print("str[::-1]",str[-1::])
+print("str[-5:]",str[-5:])
+print("str[-4:]",str[-4:])
